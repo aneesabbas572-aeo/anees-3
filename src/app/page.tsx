@@ -10,7 +10,7 @@ const page = () => {
         “Na mila kr udas logon se, Husan tera bikhar na jaye kahin.”
       </p>
     </blockquote>
-    <figcaption className=">
+    <figcaption className="font-medium">
       <div className="text-sky-500 dark:text-sky-400">
         ANEES ABBAS
       </div>
